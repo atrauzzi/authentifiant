@@ -18,4 +18,4 @@ Visit authentifiant:
 
 * ...[at Sensio Labs Connect](https://connect.sensiolabs.com/profile/omega/project/atrauzzi-authentifiant)
 
-Authoritaire is made by [Alexander Trauzzi](http://goo.gl/QabWv)
+Authentifiant is made by [Alexander Trauzzi](http://goo.gl/QabWv)
