@@ -1,0 +1,33 @@
+{
+    "name": "atrauzzi/authentifiant",
+    "description": "A pluggable, switching authentication framework for Laravel 4.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Trauzzi",
+            "email": "atrauzzi@gmail.com",
+            "homepage": "http://profiles.google.com/atrauzzi"
+        }
+    ],
+    "keywords": [
+    	"laravel",
+    	"authentication",
+    	"guard",
+    	"pluggable",
+    	"authentifiant"
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/auth": "4.0.x",
+        "illuminate/support": "4.0.x"
+    },
+	"suggest": {
+		"atrauzzi/authoritaire": "Conduct simple role and permission checks for your users."
+	},
+    "autoload": {
+        "psr-0": {
+            "Atrauzzi\\Authentifiant": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
